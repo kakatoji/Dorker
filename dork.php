@@ -9,11 +9,11 @@ return $hasil;
 }
 
 print "=============================\n";
-print "        Dorker google        \n";
+print "|        Dorker google      |\n";
 print "=============================\n";
-print "           kakatoji          \n";
+print "|          kakatoji         |\n";
 print "=============================\n";
-print "       Indo Ghost Cyber      \n";
+print "|       Indo Ghost Cyber    |\n";
 print "=============================\n";
 $cari=readline("[>]Input: ");
 print "==============================\n";
