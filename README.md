@@ -1,2 +1,3 @@
 # Dorker
-simpel search to cli
+simpel search 
+php cli program
